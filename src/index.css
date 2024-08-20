@@ -30,6 +30,10 @@ a:hover {
   min-height: 100vh;
 } */
 
+* {
+  text-decoration: none;
+}
+
 h1 {
   font-size: 3rem;
 }

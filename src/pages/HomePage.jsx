@@ -7,7 +7,7 @@ import API from '../utils/API';
 export default function HomePage() {
 
   return (
-    <div className="container pt-4">
+    <div className="container-fluid pt-2">
       <ul className="list-group list-group">
         <p>Homepage under construction</p>
       </ul>

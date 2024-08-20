@@ -1,5 +1,5 @@
 .header {
-    height: 5rem;
+    height: 4rem;
     width: 100vw;
     display: flex;
     align-items: center;
@@ -12,9 +12,14 @@
 }
 
 .navbar-nav {
+    width: 100vw;
+    height: 1rem;
+    display: flex;
     cursor: pointer;
     align-items: center;
     justify-content: center;
+    background-color: #34393c;
+    color: #c0c6c6;
 }
 
 .logo {

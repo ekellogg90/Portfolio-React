@@ -6,8 +6,11 @@ export default function Header() {
     return (
         <>
         <div className="header container-fluid">
-            <img src={logo} alt="Logo" className='logo' />
+            <img src={logo} alt="Logo" className='logo ml-5' />
             <h1>Eric Kellogg</h1>
+            <img src={logo} alt="Logo" className='logo ml-5' />
+        </div>
+        <div className="header container-fluid">
             <Nav />
         </div>
         </>

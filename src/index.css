@@ -30,8 +30,10 @@ a:hover {
   min-height: 100vh;
 } */
 
-* {
-  text-decoration: none;
+.card-img-top {
+  object-fit:contain;
+  height: 15rem;
+  width: 15rem;  
 }
 
 h1 {

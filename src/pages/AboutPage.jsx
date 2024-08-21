@@ -1,10 +1,8 @@
-// This is a static page mocking an "About Us" section for our fake user data
 export default function AboutPage() {
     return (
       <div className="container-fluid pt-4 ">
-        <h4 className="text-center">Hello and thanks for visiting my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
-          
-        <div className="container-fluid border border-dark rounded">
+        <h4 className="text-center">Hello and welcome to my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
+        <div className="container-fluid border-bottom border-top border-dark rounded">
             <div className="row p-2">
                 <div className="col-lg-6 border-end border-dark">
                     <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
@@ -34,7 +32,7 @@ export default function AboutPage() {
                 </div>
             </div>
         </div>
-        <section className="features-icons bg-light text-center m-4">
+        <section className="features-icons bg-light text-center m-4 pb-4">
           <div className="container-fluid">
             <div className="row p-2">
               <div className="col-lg-4">
@@ -93,7 +91,6 @@ export default function AboutPage() {
                     <i className="bi-terminal m-auto text-primary" />
                   </div>
                   <h3>Full Stack Developer</h3>
-                  
                   <a className="lead mb-0 text-decoration-none" href="https://pwa-text-editor-m5av.onrender.com/">Progressive Web Application (PWA) - Text Editor</a>
                   <p className="lead mb-0">An installable text editor that works in offline and online</p>
                   <a className="lead mb-0 text-decoration-none" href="https://github.com/ekellogg90/PWA-Text-Editor">Check out the code on GitHub!</a>
@@ -118,15 +115,6 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus
-          tenetur maiores, dolor iusto dolorum ullam, natus deleniti blanditiis
-          impedit suscipit sed magnam alias in, repellat expedita hic explicabo
-          architecto soluta. About us Lorem ipsum, dolor sit amet consectetur
-          adipisicing elit. Velit voluptate exercitationem quaerat pariatur
-          mollitia, excepturi, voluptatem eveniet a dolor nobis ex veniam totam
-          nostrum temporibus ad omnis nam rerum eligendi.
-        </p>
       </div>
     );
   }

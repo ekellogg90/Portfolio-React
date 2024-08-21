@@ -55,16 +55,12 @@ export default function HomePage() {
 
   return (
     <>
-        <div className="container-fluid pt-2">
-            {/* <div className="container-fluid border-bottom border-dark rounded"> */}
+        <div className="container-fluid pt-2 mt-4">
                 <div className="row justify-content-center">
-                    {/* <div className="col-sm-6"> */}
                         {projects.map((project) => (
                             <Project project={project} />
                         ))}
-                    {/* </div> */}
                 </div>
-            {/* </div> */}
             
         </div>
     </>

@@ -16,6 +16,9 @@ export default function Nav() {
               <Link key={2} className="nav-link text-light mx-5" to="/about">
                 About Me
               </Link>,
+              <Link key={3} className="nav-link text-light mx-5" to="/resume">
+              Résumé
+            </Link>,
               <button className="mx-5">Request I Apply</button>
             ]}/>
         </div>

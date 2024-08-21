@@ -10,6 +10,7 @@ import App from './App';
 import ErrorPage from './pages/ErrorPage';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
+import ResumePage from './pages/ResumePage';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: 'about',
         element: <AboutPage />,
+      },
+      {
+        path: 'resume',
+        element: <ResumePage />,
       },
     ],
   },

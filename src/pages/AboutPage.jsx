@@ -1,8 +1,8 @@
 export default function AboutPage() {
     return (
       <div className="container-fluid pt-4 ">
-        <h4 className="text-center">Hello and welcome to my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
-        <div className="container-fluid border-bottom border-top border-dark rounded">
+        <h4 className="text-center mb-4 mt-1 border-bottom border-dark">Hello and welcome to my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
+        {/* <div className="container-fluid border-bottom border-top border-dark rounded">
             <div className="row p-2">
                 <div className="col-lg-6 border-end border-dark">
                     <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
@@ -31,7 +31,7 @@ export default function AboutPage() {
                     </div>
                 </div>
             </div>
-        </div>
+        </div> */}
         <section className="features-icons bg-light text-center m-4 pb-4">
           <div className="container-fluid">
             <div className="row p-2">
@@ -64,12 +64,8 @@ export default function AboutPage() {
                     <i className="bi-layers m-auto text-primary" />
                   </div>
                   <h3>Scrum Master / Project Manager</h3>
-                  <p className="lead mb-0">2022 - 2023</p>
+                  <p className="lead mb-0">2018 - 2023</p>
                   <p className="lead mb-0"><b>Oracle</b> - Scrum Master II</p>
-                  <p className="lead mb-0">Business Intelligence and Analytics</p>
-                  <p className="lead mb-0">--------------------------------------------------------</p>
-                  <p className="lead mb-0">2018 - 2022</p>
-                  <p className="lead mb-0"><b>Cerner</b> - Scrum Master II</p>
                   <p className="lead mb-0">Business Intelligence and Analytics</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2017 - 2018</p>
@@ -96,11 +92,11 @@ export default function AboutPage() {
                   <a className="lead mb-0 text-decoration-none" href="https://github.com/ekellogg90/PWA-Text-Editor">Check out the code on GitHub!</a>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <a className="lead mb-0 text-decoration-none" href="https://ekellogg90.github.io/pet-finder-proj1/">Pet Adoption Web Application</a>
-                  <p className="lead mb-0">Web application to help you find adoptable pets in your area that meet your criteria</p>
+                  <p className="lead mb-0">Web application to help you find adoptable pets in your area</p>
                   <a className="lead mb-0 text-decoration-none" href="https://github.com/ekellogg90/pet-finder-proj1">Check out the code on GitHub!</a>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <a className="lead mb-0 text-decoration-none" href="https://drive.google.com/file/d/1Tz_ExR958wIOlppwuo52_ceybbXi4Qw5/view">NoSQL Social Network API</a>
-                  <p className="lead mb-0">Created a database in MongoDB that stores user input and exposes it via API routes</p>
+                  <p className="lead mb-0">Utilized MongoDB to store user input and expose it via API routes</p>
                   <a className="lead mb-0 text-decoration-none" href="https://github.com/ekellogg90/NoSQL-Social-Network-API">Check out the code on GitHub!</a>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <a className="lead mb-0 text-decoration-none" href="https://drive.google.com/file/d/1rpUgJ4J5uJ85fvob6t1o3JFJurvNDEne/view">ReadMe Generator</a>

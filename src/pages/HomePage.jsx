@@ -1,8 +1,3 @@
-import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
-
-import API from '../utils/API';
-
 import Project from '../components/Project';
 import jate from '../assets/jate.png';
 import mongo from '../assets/Mongo-db-logo.png';
@@ -15,7 +10,7 @@ export default function HomePage() {
       id: 0,
       name: "PWA Text Editor",
       picture: jate,
-      desc: "An installable text editor that works in offline and online",
+      desc: "An installable text editor that works offline and online",
       github: "https://github.com/ekellogg90/PWA-Text-Editor",
       deployed: "https://pwa-text-editor-m5av.onrender.com/"
     },

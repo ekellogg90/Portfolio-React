@@ -5,6 +5,7 @@ import Nav from './Nav';
 export default function Header() {
     return (
         <>
+        <header>
         <div className="header container-fluid">
             <img src={logo} alt="Logo" className='logo' />
             <h1>Eric Kellogg</h1>
@@ -13,6 +14,7 @@ export default function Header() {
         <div className="header container-fluid">
             <Nav />
         </div>
+        </header>
         </>
       );
 };

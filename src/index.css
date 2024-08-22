@@ -4,6 +4,13 @@
   width: 15rem;  
 }
 
+.img-eric {
+  object-fit:contain;
+  height: 15rem;
+  width: 15rem; 
+  border-radius: 35%; 
+}
+
 h1 {
   font-size: 3rem;
 }

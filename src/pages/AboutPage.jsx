@@ -1,37 +1,16 @@
+import eric from '../assets/Eric.jpg';
+import ku from '../assets/KULogo.png';
+import nebraska from '../assets/Nebraska.jpg';
+
 export default function AboutPage() {
     return (
       <div className="container-fluid pt-4 ">
+        <div className='text-center d-flex justify-content-around'>
+        <img src={ku} alt="Kansas Logo" className='img-eric' />
+        <img src={eric} alt="Eric" className='img-eric' />
+        <img src={nebraska} alt="Nebraska Logo" className='img-eric' />
+        </div>
         <h4 className="text-center mb-4 mt-1 border-bottom border-dark">Hello and welcome to my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
-        {/* <div className="container-fluid border-bottom border-top border-dark rounded">
-            <div className="row p-2">
-                <div className="col-lg-6 border-end border-dark">
-                    <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-                        <div className="features-icons-icon d-flex">
-                            <i className="bi-window m-auto text-primary"/>
-                        </div>
-                        <h6 className="pt-3 pb-2">As a Business Analyst, Project Manager, and Scrum Master I have a great wealth of experience. Some highlights include:</h6>
-                            <li className="ps-3">Creating internal analytics suites to measure team performance metrics (Velocity, Code Quality, & Estimation Accuracy)</li>
-                            <li className="ps-3">Leading many devlopment teams in adopting Agile</li>
-                            <li className="ps-3">Leading international development teams through Agile Ceremonies (Iteration Planning, Scrum, Retrospective, & Backlog Grooming)</li>
-                            <li className="ps-3">Managing cross team Roadmaps to ensure Projects stay on track and complete on time </li>
-                            <li className="ps-3">Leading process improvement initiatives that increased development velocity and reduced development cost</li>
-                    </div>
-                </div>
-                <div className="col-lg-6">
-                    <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
-                        <div className="features-icons-icon d-flex">
-                            <i className="bi-window m-auto text-primary"/>
-                        </div>
-                        <h6 className="pt-3 pb-2">As a Software Developer I'm early in my journey, but have quicky found it to be another passion of mine. In a short time I've become well versed in:</h6>
-                            <li className="ps-3">HTML</li>
-                            <li className="ps-3">CSS (Custom and utilizing pre-built libraries such as Bootstrap and Tailwind)</li>
-                            <li className="ps-3">Java Script for Frontend and Backend development</li>
-                            <li className="ps-3">Using technologies like Node, Express, Sequelize, and React in tandem to create functional and elegant Web Applications</li>
-                            <li className="ps-3">Model View Controller paradigm and understanding the importance of non-monolithic architectures </li>
-                    </div>
-                </div>
-            </div>
-        </div> */}
         <section className="features-icons bg-light text-center m-4 pb-4">
           <div className="container-fluid">
             <div className="row p-2">

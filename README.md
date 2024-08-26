@@ -1,8 +1,40 @@
-# React + Vite
+# Eric's Portfolio                                                                                                                      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+## Description
+- Motivation: My motivation in making this is to have something to that showcases my technical ability to potential employers
+- Why: I built this application to better learn React and help in my job search
+- What problem does this solve: This helps potential employers learn more about me in one easily navigatable place
+- What I learned: I learned a lot of how to reuse components across multiple pages in React.
+- Challanges: The biggest challenge I faced was in CSS styling to create a consistent look and feel for the application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Installation](#Installation)
+- [Usage](#Usage) 
+- [License](#License) 
+- [Contribute](#Contribute) 
+- [Tests](#Tests) 
+- [Questions](#Questions) 
+- [Credits](#Credits) 
 
-Currently, two official plugins are available:
+## Installation
+npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+npm run dev
+
+## License
+This application is covered under the MIT license.
+
+## Contribute
+Commit directly to main
+
+## Tests
+N/A
+
+## Questions
+- [ekellogg90's gitHub profile](https://github.com/ekellogg90)
+- Please contact me at <a href="mailto:ekellogg90@gmail.com">ekellogg90@gmail.com</a> for any additional questions.
+
+## Credits
+- People to credit: I pulled some ideas from GreatStack on how to go about the initial design
+- Tools used: React, Bootstrap, Vite

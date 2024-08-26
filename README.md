@@ -22,6 +22,8 @@ npm i
 ## Usage
 npm run dev
 
+[Deployed App](https://eric-kellogg-portfolio.netlify.app/)
+
 ## License
 This application is covered under the MIT license.
 

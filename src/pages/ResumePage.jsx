@@ -22,6 +22,7 @@ export default function ResumePage() {
                   <p className="lead mb-0">Express</p>
                   <p className="lead mb-0">Sequelize</p>
                   <p className="lead mb-0">React</p>
+                  <p className="lead mb-0">GraphQL</p>
                   <p className="lead mb-0">SQL and MongoDB</p>
                   <p className="lead mb-0">Model View Controller paradigm (MVC)</p>
                 </div>

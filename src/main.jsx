@@ -11,6 +11,7 @@ import ErrorPage from './pages/ErrorPage';
 import ProjectPage from './pages/ProjectPage';
 import AboutPage from './pages/AboutPage';
 import ResumePage from './pages/ResumePage';
+import ContactPage from './pages/ContactPage';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: 'resume',
         element: <ResumePage />,
+      },
+      {
+        path: 'contact',
+        element: <ContactPage />,
       },
     ],
   },

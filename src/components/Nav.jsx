@@ -18,9 +18,11 @@ export default function Nav() {
                 Projects
               </Link>,
               <Link key={3} to="/resume" className={currentPage === '/resume' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >
-              Résumé
-            </Link>,
-              <button className="mx-5">Request I Apply</button>
+                Résumé
+              </Link>,
+              <Link key={4} to="/contact" className={currentPage === '/contact' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >
+                Contact
+              </Link>,
             ]}/>
         </div>
       </div>

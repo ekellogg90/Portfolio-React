@@ -24,6 +24,15 @@ npm run dev
 
 [Deployed App](https://eric-kellogg-portfolio.netlify.app/)
 
+![Home Page](https://github.com/user-attachments/assets/6dd42095-7ace-4444-ae1d-5a6ba61709c5)
+
+![Projects](https://github.com/user-attachments/assets/515d1d21-b8d3-407e-990d-32f351045287)
+
+![Resume](https://github.com/user-attachments/assets/948d7c53-3bb5-4445-b950-f5e876f418d9)
+
+![Contact](https://github.com/user-attachments/assets/20b21058-7d4b-467d-bc63-07f7f4ab2bf7)
+
+
 ## License
 This application is covered under the MIT license.
 

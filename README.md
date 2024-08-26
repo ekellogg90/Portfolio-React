@@ -39,8 +39,11 @@ This application is covered under the MIT license.
 ## Contribute
 Commit directly to main
 
-## Tests
-N/A
+## Future Development
+- Make a more robust Contacts Page
+- Make the application more mobile friendly
+    - Pictures
+    - Burger menu for Navigation
 
 ## Questions
 - [ekellogg90's gitHub profile](https://github.com/ekellogg90)

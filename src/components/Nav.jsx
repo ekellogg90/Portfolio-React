@@ -7,7 +7,7 @@ export default function Nav() {
   // The Navbar UI component will render each of the Link elements in the links prop
   return (
     <nav className="navbar navbar-expand-sm my-0 py-0">
-      <div className="collapse navbar-collapse" id="navbarSupportedContent">
+      <div className="collapse navbar-collapse d-none d-md-block" id="navbarSupportedContent">
         <Navbar
           links={[
             <Link key={1} to="/" className={currentPage === '/' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >

@@ -4,11 +4,11 @@ import nebraska from '../assets/Nebraska.jpg';
 
 export default function AboutPage() {
     return (
-      <div className="container-fluid pt-4 ">
+      <div className="container-fluid pt-4 mb-5">
         <div className='text-center d-flex justify-content-around'>
-        <img src={ku} alt="Kansas Logo" className='img-eric' />
-        <img src={eric} alt="Eric" className='img-eric' />
-        <img src={nebraska} alt="Nebraska Logo" className='img-eric' />
+          <img src={ku} alt="Kansas Logo" className='img-eric d-none d-md-block' />
+          <img src={eric} alt="Eric" className='img-eric' />
+          <img src={nebraska} alt="Nebraska Logo" className='img-eric d-none d-md-block' />
         </div>
         <h4 className="text-center mb-4 mt-1 border-bottom border-dark">Hello and welcome to my portfolio! My name is Eric and I'm an endlessly curious person who loves figuring out how things work and helping others succeed.</h4>
         <section className="features-icons bg-light text-center m-4 pb-4">

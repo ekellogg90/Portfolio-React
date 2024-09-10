@@ -19,9 +19,9 @@ export default function Nav() {
             <Link key={3} to="/resume" className={currentPage === '/resume' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >
               Résumé
             </Link>,
-            <Link key={4} to="/contact" className={currentPage === '/contact' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >
-              Contact
-            </Link>,
+            // <Link key={4} to="/contact" className={currentPage === '/contact' ? "nav-link active text-light mx-5" : "nav-link text-light mx-5"} >
+            //   Contact
+            // </Link>,
           ]}/>
       </div>
     </nav>

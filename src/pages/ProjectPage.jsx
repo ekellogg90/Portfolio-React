@@ -59,7 +59,7 @@ export default function ProjectPage() {
 
   return (
     <>
-        <div className="container-fluid pt-2 mt-4">
+        <div className="container-fluid pt-2 mt-4 mb-4">
           <div className="row justify-content-center">
                   {projects.map((project) => (
                       <Project project={project} />

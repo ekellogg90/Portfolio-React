@@ -67,7 +67,7 @@ export default function AboutPage() {
                   </div>
                   <h3>Full Stack Developer</h3>
                   <a className="lead mb-0 text-decoration-none" href="https://jeb-jack.onrender.com/">JEB Jack - A custom blackjack game variant</a>
-                  <p className="lead mb-0">JEB Jack is blackjack with a twist!  Enjoy using nostalgic cards from other games to pursue victory in new ways</p>
+                  <p className="lead mb-0">JEB Jack is blackjack with a twist!</p>
                   <a className="lead mb-0 text-decoration-none" href="https://github.com/ekellogg90/JEB-Jack">Check out the code on GitHub!</a>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <a className="lead mb-0 text-decoration-none" href="https://pwa-text-editor-m5av.onrender.com/">Progressive Web Application (PWA) - Text Editor</a>

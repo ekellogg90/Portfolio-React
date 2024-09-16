@@ -44,7 +44,7 @@ export default function AboutPage() {
                   </div>
                   <h3>Scrum Master / Project Manager</h3>
                   <p className="lead mb-0">2018 - 2023</p>
-                  <p className="lead mb-0"><b>Oracle</b> - Scrum Master II</p>
+                  <p className="lead mb-0"><b>Oracle</b> - Senior Scrum Master</p>
                   <p className="lead mb-0">Business Intelligence and Analytics</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2017 - 2018</p>

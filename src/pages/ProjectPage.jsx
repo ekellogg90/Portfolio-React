@@ -52,7 +52,7 @@ export default function ProjectPage() {
       name: "JEB Jack",
       picture: logo,
       desc: "A blackjack variant filled with nostalgic cards from other games, providing new ways to win",
-      github: "https://github.com/JohnKihm/JEB-Jack",
+      github: "https://github.com/ekellogg90/JEB-Jack",
       deployed: "https://jeb-jack.onrender.com/"
     },
   ]

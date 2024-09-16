@@ -49,11 +49,11 @@ export default function ProjectPage() {
     },
     {
       id: 5,
-      name: "Logo Generator",
+      name: "JEB Jack",
       picture: logo,
-      desc: "Command Line application that generates a custom logo for the user. Utilized Jest for Test Driven Development",
-      github: "https://github.com/ekellogg90/Eric-Logo-Maker",
-      deployed: "https://drive.google.com/file/d/1VtUfpjmi6Cg8cD-1jH34midJmiWF5EQ_/view"
+      desc: "A blackjack variant filled with nostalgic cards from other games, providing new ways to win",
+      github: "https://github.com/JohnKihm/JEB-Jack",
+      deployed: "https://jeb-jack.onrender.com/"
     },
   ]
 

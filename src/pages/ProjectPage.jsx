@@ -4,6 +4,7 @@ import mongo from '../assets/Mongo-db-logo.png';
 import readme from '../assets/Readme1.png';
 import weather from '../assets/Weather.jpg';
 import logo from '../assets/logo.svg';
+import blackJack from '../assets/blackJack.jpg';
 
 export default function ProjectPage() {
   const projects = [
@@ -50,7 +51,7 @@ export default function ProjectPage() {
     {
       id: 5,
       name: "JEB Jack",
-      picture: logo,
+      picture: blackJack,
       desc: "A blackjack variant filled with nostalgic cards from other games, providing new ways to win",
       github: "https://github.com/ekellogg90/JEB-Jack",
       deployed: "https://jeb-jack.onrender.com/"

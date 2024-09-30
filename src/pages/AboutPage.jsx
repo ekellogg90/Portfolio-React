@@ -21,6 +21,10 @@ export default function AboutPage() {
                   </div>
                   <h3>Education</h3>
                   <p className="lead mb-0">2024</p>
+                  <p className="lead mb-0">Scrum Alliance</p>
+                  <p className="lead mb-0">Certified Scrum Master</p>
+                  <p className="lead mb-0">--------------------------------------------------------</p>
+                  <p className="lead mb-0">2024</p>
                   <p className="lead mb-0">The University of Kansas</p>
                   <p className="lead mb-0">Full Stack Development Boot Camp</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>

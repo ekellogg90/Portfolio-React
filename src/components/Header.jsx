@@ -8,7 +8,7 @@ export default function Header() {
         <header>
         <div className="header container-fluid">
             <img src={logo} alt="Logo" className='logo' />
-            <h1 className='d-none d-sm-block'>Eric Kellogg, PMP</h1>
+            <h1 className='d-none d-sm-block'>Eric Kellogg, PMP, CSM</h1>
             <img src={logo} alt="Logo" className='logo' />
         </div>
         <div className="header container-fluid">

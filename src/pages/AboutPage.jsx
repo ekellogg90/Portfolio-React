@@ -44,19 +44,19 @@ export default function AboutPage() {
                   </div>
                   <h3>Scrum Master / Project Manager</h3>
                   <p className="lead mb-0">2018 - 2023</p>
-                  <p className="lead mb-0"><b>Oracle</b> - Senior Scrum Master</p>
+                  <p className="lead mb-0"><b>Oracle-Cerner</b> - Senior Scrum Master</p>
                   <p className="lead mb-0">Business Intelligence and Analytics</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2017 - 2018</p>
-                  <p className="lead mb-0"><b>Cerner</b> - Scrum Master</p>
+                  <p className="lead mb-0"><b>Oracle-Cerner</b> - Scrum Master</p>
                   <p className="lead mb-0">Analytics Applications</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2015 - 2017</p>
-                  <p className="lead mb-0"><b>Cerner</b> - Senior Business Analyst</p>
+                  <p className="lead mb-0"><b>Oracle-Cerner</b> - Senior Business Analyst</p>
                   <p className="lead mb-0">Analytics Applications</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2014 - 2015</p>
-                  <p className="lead mb-0"><b>Cerner</b> - Business Analyst</p>
+                  <p className="lead mb-0"><b>Oracle-Cerner</b> - Business Analyst</p>
                   <p className="lead mb-0">Analytics Applications</p>
                 </div>
               </div>

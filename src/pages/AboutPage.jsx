@@ -22,19 +22,15 @@ export default function AboutPage() {
                   <h3>Education</h3>
                   <p className="lead mb-0">2024</p>
                   <p className="lead mb-0">Scrum Alliance</p>
-                  <p className="lead mb-0">Certified Scrum Master</p>
+                  <p className="lead mb-0">Certified Scrum Master (CSM)</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2024</p>
                   <p className="lead mb-0">The University of Kansas</p>
                   <p className="lead mb-0">Full Stack Development Boot Camp</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
-                  <p className="lead mb-0">2021</p>
-                  <p className="lead mb-0">Project Management Institute</p>
-                  <p className="lead mb-0">Disciplined Agile Scrum Master (DASM) Certification</p>
-                  <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2017</p>
                   <p className="lead mb-0">Project Management Institute</p>
-                  <p className="lead mb-0">Project Management Professional (PMP) Certification</p>
+                  <p className="lead mb-0">Project Management Professional (PMP)</p>
                   <p className="lead mb-0">--------------------------------------------------------</p>
                   <p className="lead mb-0">2013</p>
                   <p className="lead mb-0">University of Nebraska-Lincoln</p>

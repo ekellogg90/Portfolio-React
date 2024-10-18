@@ -10,11 +10,11 @@ export default function ProjectPage() {
   const projects = [
     {
       id: 0,
-      name: "PWA Text Editor",
-      picture: jate,
-      desc: "An installable text editor that works offline and online",
-      github: "https://github.com/ekellogg90/PWA-Text-Editor",
-      deployed: "https://pwa-text-editor-m5av.onrender.com/"
+      name: "JEB Jack",
+      picture: blackJack,
+      desc: "A blackjack variant filled with nostalgic cards from other games, providing new ways to win",
+      github: "https://github.com/ekellogg90/JEB-Jack",
+      deployed: "https://jeb-jack.onrender.com/"
     },
     {
       id: 1,
@@ -50,11 +50,11 @@ export default function ProjectPage() {
     },
     {
       id: 5,
-      name: "JEB Jack",
-      picture: blackJack,
-      desc: "A blackjack variant filled with nostalgic cards from other games, providing new ways to win",
-      github: "https://github.com/ekellogg90/JEB-Jack",
-      deployed: "https://jeb-jack.onrender.com/"
+      name: "PWA Text Editor",
+      picture: jate,
+      desc: "An installable text editor that works offline and online",
+      github: "https://github.com/ekellogg90/PWA-Text-Editor",
+      deployed: "https://pwa-text-editor-m5av.onrender.com/"
     },
   ]
 

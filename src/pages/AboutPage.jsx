@@ -42,7 +42,7 @@ export default function AboutPage() {
                   <div className="features-icons-icon d-flex">
                     <i className="bi-layers m-auto text-primary" />
                   </div>
-                  <h3>Scrum Master / Project Manager</h3>
+                  <h3>Scrum Master / Product Owner</h3>
                   <p className="lead mb-0">2018 - 2023</p>
                   <p className="lead mb-0"><b>Oracle-Cerner</b> - Scrum Master II / Product Owner</p>
                   <p className="lead mb-0">Business Intelligence and Analytics</p>
